@@ -15,6 +15,16 @@ Parametry programu:
 * 1 – plik z kodem do analizy
 * 2 – plik w którym zostanie zapisany raport
 
+## 2. Stałe
+
+Stałe:
+
+* VAR_MAX – maksymalna liczba zmiennych w analizowanym kodzie
+* NAME_MAX – maksymalna długość typu i nazwy zmiennej
+* WORD_MAX – maksymalna długość pobranego w getWord słowa
+* BRACES_MAX – maksymalna liczba zakręconych nawiasów
+
+
 ## 2. Test działania programu na przykładowym kodzie
 
 Kod wejściowy:
