@@ -17,8 +17,6 @@ Parametry programu:
 
 ## 2. Stałe
 
-Stałe:
-
 * VAR_MAX – maksymalna liczba zmiennych w analizowanym kodzie
 * NAME_MAX – maksymalna długość typu i nazwy zmiennej
 * WORD_MAX – maksymalna długość pobranego w getWord słowa
