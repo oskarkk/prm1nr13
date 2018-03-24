@@ -1,5 +1,5 @@
 # prm1nr13
-Program ma sprawdzić ilość nawiasów ‘’{‘’ i ‘’}’’ oraz numery linii w jakich one występują. Ma wyszukać wszystkie deklaracje zmiennych i posortować je alfabetycznie. Raport z analizy ma zostać zapisany do pliku.
+Program ma sprawdzić ilość nawiasów ‘’{‘’ i ‘’}’’ oraz numery linii w jakich one występują. Ma wyszukać wszystkie deklaracje zmiennych i posortować je alfabetycznie. Bez użycia zewnętrznych funkcji do operacji na stringach. Raport z analizy ma zostać zapisany do pliku.
 
 ## 1.	Opis algorytmu
 
