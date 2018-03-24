@@ -23,7 +23,7 @@ Parametry programu:
 * BRACES_MAX – maksymalna liczba zakręconych nawiasów
 
 
-## 2. Test działania programu na przykładowym kodzie
+## 3. Test działania programu na przykładowym kodzie
 
 Kod wejściowy:
 ```c
@@ -90,7 +90,7 @@ long int i
 unsigned long long int szuruburu
 ```
 
-## 3. Test działania programu na jego własnym kodzie
+## 4. Test działania programu na jego własnym kodzie
 
 Kod wejściowy: kod programu (program analizuje sam siebie)
 
